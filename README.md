@@ -46,4 +46,4 @@
 
 ### Made by _Elon Avisror & Mahdi Asali_ \ ( ゜ o ゜)ノ
 
-![GitHub Logo](/logo.gif)
+![GitHub Logo](src/logo.gif)
