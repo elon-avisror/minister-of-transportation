@@ -1,10 +1,6 @@
-# The new Minister of Transportatoion (MOT)
+# The new Minister of Transportatoion (MT)
 
-## Introduction
-
-## Installation
-
-## Guide
+## Guide-Line
 
 1. read the documentations of solidity (with environment installation):
 
@@ -34,15 +30,13 @@
      - example - 123456789, 30/7/2019, 5/8/2020 --> success.
 
 3. build a system that communicate with the smart contract (written by solidity).
-   python language, using web3.py package.
+   javascript language, using web3.js package.
 
 4. run the whole app.
 
 5. assign the project.
 
 6. project presentation (implement the smart contract).
-
-## Configuration
 
 ### Made by _Elon Avisror & Mahdi Asali_ \ ( ゜ o ゜)ノ
 
