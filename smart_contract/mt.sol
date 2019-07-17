@@ -56,7 +56,6 @@ contract MinistryOfTransportation {
         drivers[_id].isExpiry = _isExpiry;
         emit UpdateDriverLicense(_id, drivers[_id].name, drivers[_id].isExpiry);
     }
-    
     // Owner: can view policemen
     function viewPoliceman(address _certificate) public onlyOwner returns(uint32, string memory, bool, address)  {
         emit ViewPoliceman(policemen[_certificate].id, policemen[_certificate].name, policemen[_certificate].onDuty, _certificate);
