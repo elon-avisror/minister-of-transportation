@@ -1,22 +1,39 @@
-/*body {}*/
+body {
+    background-image: url('https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-blockchain.png');
+}
 
 p {
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin-left: 15%;
     margin-right: 15%;
 }
 
 h1 {
     color: teal;
-    background-color: whitesmoke;
+    font-style: italic;
     margin-left: 15%;
     margin-right: 15%;
 }
 
-nav {
-    margin-bottom: 25%;
+h2 {
+    color: red;
+    margin-left: 15%;
+    margin-right: 15%;
 }
 
-.button {
+h3 {
+    color: blue;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+div.buttons {
     color: teal;
     margin-left: 15%;
+}
+
+ul {
+    margin-left: 15%;
+    margin-right: 15%;
 }

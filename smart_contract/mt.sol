@@ -1,6 +1,6 @@
 pragma solidity 0.5.8;
 
-contract MinistryOfTransportation {
+contract MinistryofTransportation {
     // Owner: can save Policemen addresses
     mapping(address => address) private addresses;
     // Owner: can view policemen
