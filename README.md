@@ -1,4 +1,4 @@
-# The new Minister of Transportatoion (MT)
+# The new Minister of Transportation (MT)
 
 ## Guide-Line
 
