@@ -14,7 +14,7 @@ const privateKeys = [
     '4B22E8CD6883D702A9F609B96E23CD3CDD33616F1551480A3C5D8DDA82D7E338'  /* Other#2 */
 ];
 
-const contractAddress = '0xab5e29b4683ef6b13aa720db968106f1a637b5fe';
+const contractAddress = '0x2ea7ef843438c264330364c706ce6c3288052b92';
 
 const abi = [
     {

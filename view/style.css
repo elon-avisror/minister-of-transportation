@@ -33,7 +33,18 @@ div.buttons {
     margin-left: 15%;
 }
 
+.button:hover {
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
 ul {
     margin-left: 15%;
-    margin-right: 15%;
+    margin-right: 35%;
+    border: 2px solid blue;
+    border-radius: 12px;
+}
+
+li {
+    margin-top: 1px;
 }
