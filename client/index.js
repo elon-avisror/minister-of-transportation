@@ -116,7 +116,7 @@ contractWithDirector.on("ViewPoliceman", (id, name, onDuty, certificate, event) 
                        </ul>`;
   }
   else {
-    driverResult += `<ul>
+    policemanResult += `<ul>
                       <li>details not found!</li>
                       <li>block number: ${event.blockNumber}</li>
                       <li>hash: ${txPoliceman.hash}</li>
