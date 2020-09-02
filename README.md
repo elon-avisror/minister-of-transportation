@@ -38,6 +38,6 @@
 
 6. project presentation (implement the smart contract).
 
-### Made by _Elon Avisror & Mahdi Asali_ \ ( ゜ o ゜)ノ
+### Made by _Elon Avisror_ \ ( ゜ o ゜)ノ
 
-![GitHub Logo](src/logo.gif)
+![GitHub Logo](./logo.gif)

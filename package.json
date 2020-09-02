@@ -1,0 +1,21 @@
+{
+  "name": "mot",
+  "version": "1.0.0",
+  "description": "## Guide-Line",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elon-avisror/mt.git"
+  },
+  "author": "Elon Avisror <avisror.elon@gmail.com> (http://elon-avisror.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elon-avisror/mt/issues"
+  },
+  "homepage": "https://github.com/elon-avisror/mt#readme"
+}
